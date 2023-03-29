@@ -17,6 +17,7 @@ class Person:
 ```
 
 ## definitions
-- Encapsulation
-- Polymorphism
-- Override
+- encapsulation
+- polymorphism
+- override
+
